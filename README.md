@@ -4,9 +4,9 @@
 
 ##### NOW
 
-- ✨ Working remotely for a french start-up
+- ✨ Working remotely for a french start-up - [professional github account](https://github.com/kithstacie)
 - 🤖 Learning Python & web3
-- 🌱 My latest project is viewable here: [https://github.com/staciekith/mental-unload](https://github.com/staciekith/mental-unload)
+- 🌱 My latest project is viewable here: [Mental unload](https://github.com/staciekith/mental-unload)
 
 ##### BIO
 
