@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently looking for an opportunity in **Monteal, Canada** (remote or hybrid 4/1)
+- 🏢 I'm currently looking for an opportunity in **Monteal, Canada** (remote or hybrid)
 - ⚙️ I use daily: `.php`, `.js`, `.ex`, `.py`
 - 🌍 I am a **hodophile**: `Japan`, `Spain`, `Germany`, `Portugal`, `UK`, `Thailand`, `South Korea`, `Cambodia`, `Netherlands`
 - 📫 Reach me: [twitter.com/orenjibean](https://twitter.com/orenjibean)
