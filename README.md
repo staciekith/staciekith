@@ -4,13 +4,13 @@
 
 ##### NOW
 
-- ✨ Working remotely for a french start-up - [professional github account](https://github.com/kithstacie)
+- 🏢 I'm currently looking for an opportunity in **Monteal, Canada** (remote or hybrid)
 - 🤖 Learning Python & web3
 - 🌱 My latest project is viewable here: [Mental unload](https://github.com/staciekith/mental-unload)
 
 ##### BIO
 
-- 🏢 I'm currently looking for an opportunity in **Monteal, Canada** (remote or hybrid)
+- ✨ Previously worked remotely for a french start-up - [professional github account](https://github.com/kithstacie)
 - ⚙️ I use daily: `.php`, `.js`, `.ex`, `.py`
 - 🌍 I am a **hodophile**: `Japan`, `Spain`, `Germany`, `Portugal`, `UK`, `Thailand`, `South Korea`, `Cambodia`, `Netherlands`
 - 📫 Reach me: [twitter.com/orenjibean](https://twitter.com/orenjibean)
